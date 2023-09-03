@@ -1,6 +1,6 @@
 {
-  "name": "@iharbeck/ngx-virtual-scroller",
-  "version": "0.0.0",
+  "name": "@cjackson234/ngx-virtual-scroller",
+  "version": "5.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
